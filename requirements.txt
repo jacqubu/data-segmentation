@@ -1,0 +1,8 @@
+wheel
+setuptools
+twine
+black
+pandas
+dataretrieval==1.0.11
+eventdetector-ts==1.1.0
+tensorflow==2.19.0
